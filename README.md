@@ -55,12 +55,11 @@ An interactive calculator powered by hand gesture recognition using MediaPipe an
 
 ## 📸 Screenshots
 
-Add screenshots of your app here:
+---
+![Calculator UI](https://github.com/Prana5040/Hand_Gesture_Calculator/blob/main/Media/Home.png)
+![Hand Gesture Example](https://github.com/Prana5040/Hand_Gesture_Calculator/blob/main/Media/Cam.png)
 
-```
-![Calculator UI](screenshots/calculator_ui.png)
-![Hand Gesture Example](screenshots/hand_gesture.png)
-```
+---
 
 
 ## 📝 License
@@ -71,7 +70,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-**GitHub:** [pranayguptag](https://github.com/prana5040)
+**GitHub:** [prana5040](https://github.com/prana5040)
 
 ---
 
