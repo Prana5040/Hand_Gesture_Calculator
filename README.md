@@ -55,7 +55,6 @@ An interactive calculator powered by hand gesture recognition using MediaPipe an
 
 ## 📸 Screenshots
 
----
 ![Calculator UI](https://github.com/Prana5040/Hand_Gesture_Calculator/blob/main/Media/Home.png)
 ![Hand Gesture Example](https://github.com/Prana5040/Hand_Gesture_Calculator/blob/main/Media/Cam.png)
 
